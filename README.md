@@ -2,7 +2,7 @@
 In this project, I developed a predictive model to estimate the demand for bike sharing services based on various factors such as weather conditions, time of day, and other relevant features. By analyzing historical data, I aimed to provide insights into bike usage patterns and improve the efficiency of bike sharing systems.
 
 ## Data Preparation
-Before diving into the analysis, I performed data preparation steps to ensure the data was in a suitable format for exploration and modeling. This included handling missing values, encoding categorical variables, and scaling numerical features if necessary. By preparing the data appropriately, I ensured the accuracy and reliability of the subsequent analyses.
+Before diving into the analysis, I performed data preparation steps to ensure the data was in a suitable format for exploration and modeling. This included handling missing values, encoding categorical variables, and scaling numerical features if necessary. By preparing the data appropriately, I reading plaintext delimited data into `pandas` and ensured the accuracy and reliability of the subsequent analyses.
 
 ## Exploring the Distribution of Riders
 To gain a better understanding of the bike sharing data, I compared the distribution of daily counts between casual and registered riders. By visualizing these distributions, I could identify any differences in the usage patterns and assess the contribution of each rider type to the overall demand. This analysis helped me uncover any potential variations in behavior between these two groups.
